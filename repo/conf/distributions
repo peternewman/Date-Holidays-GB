@@ -1,0 +1,14 @@
+Description: peternewman/Date-Holidays-GB
+Codename: bionic
+Architectures: amd64
+Components: main
+SignWith: 537DC0BB3ACE17E0CB574CA17E4B26D28B8C8B8E
+
+
+Description: peternewman/Date-Holidays-GB
+Codename: focal
+Architectures: amd64
+Components: main
+SignWith: 537DC0BB3ACE17E0CB574CA17E4B26D28B8C8B8E
+
+
