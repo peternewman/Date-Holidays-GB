@@ -1,0 +1,62 @@
+Codename: main
+Date: Thu, 01 Apr 2021 02:24:18 UTC
+Architectures: amd64 arm64 armhf i386 ppc64el s390x
+Components: main
+Description: peternewman/Date-Holidays-GB
+MD5Sum:
+ b39eaafebc2c2c4b8656f4cbc3a2b80b 662 main/binary-amd64/Packages
+ 8bafcb57cda5cf877430c55cb0b8394a 441 main/binary-amd64/Packages.gz
+ 5d819f591c87dea56207557d3422b601 78 main/binary-amd64/Release
+ b39eaafebc2c2c4b8656f4cbc3a2b80b 662 main/binary-arm64/Packages
+ 8bafcb57cda5cf877430c55cb0b8394a 441 main/binary-arm64/Packages.gz
+ 89f9273de9079373ad0325a921ae92c8 78 main/binary-arm64/Release
+ b39eaafebc2c2c4b8656f4cbc3a2b80b 662 main/binary-armhf/Packages
+ 8bafcb57cda5cf877430c55cb0b8394a 441 main/binary-armhf/Packages.gz
+ 8cbe2594b041cd0472fdbdf710726217 78 main/binary-armhf/Release
+ b39eaafebc2c2c4b8656f4cbc3a2b80b 662 main/binary-i386/Packages
+ 8bafcb57cda5cf877430c55cb0b8394a 441 main/binary-i386/Packages.gz
+ 0e548961430cb5f941106d03852c33ec 77 main/binary-i386/Release
+ b39eaafebc2c2c4b8656f4cbc3a2b80b 662 main/binary-ppc64el/Packages
+ 8bafcb57cda5cf877430c55cb0b8394a 441 main/binary-ppc64el/Packages.gz
+ 0444156a817da7c8728c8c76f78a9629 80 main/binary-ppc64el/Release
+ b39eaafebc2c2c4b8656f4cbc3a2b80b 662 main/binary-s390x/Packages
+ 8bafcb57cda5cf877430c55cb0b8394a 441 main/binary-s390x/Packages.gz
+ b1d62d2220a3f63002711d9a8e234d41 78 main/binary-s390x/Release
+SHA1:
+ 0a9ae4d2912fe135674c90f4db87c1230cb1b625 662 main/binary-amd64/Packages
+ b9dced3e453d984a860b097911f4daf1d535e748 441 main/binary-amd64/Packages.gz
+ 182447107c67d4b45ee0cbf7ef5bbff42005956b 78 main/binary-amd64/Release
+ 0a9ae4d2912fe135674c90f4db87c1230cb1b625 662 main/binary-arm64/Packages
+ b9dced3e453d984a860b097911f4daf1d535e748 441 main/binary-arm64/Packages.gz
+ 0a57234b916989a7ca0a7a6a7638bccf46561598 78 main/binary-arm64/Release
+ 0a9ae4d2912fe135674c90f4db87c1230cb1b625 662 main/binary-armhf/Packages
+ b9dced3e453d984a860b097911f4daf1d535e748 441 main/binary-armhf/Packages.gz
+ 4e3041bbfbd48bc712c4fb4e1e8d41867ad051e1 78 main/binary-armhf/Release
+ 0a9ae4d2912fe135674c90f4db87c1230cb1b625 662 main/binary-i386/Packages
+ b9dced3e453d984a860b097911f4daf1d535e748 441 main/binary-i386/Packages.gz
+ d3b1e2c715fefab3be9fe493ed5f36fe1c1db96c 77 main/binary-i386/Release
+ 0a9ae4d2912fe135674c90f4db87c1230cb1b625 662 main/binary-ppc64el/Packages
+ b9dced3e453d984a860b097911f4daf1d535e748 441 main/binary-ppc64el/Packages.gz
+ 46573c8d88190ff876bed6eeae209025c87c6c10 80 main/binary-ppc64el/Release
+ 0a9ae4d2912fe135674c90f4db87c1230cb1b625 662 main/binary-s390x/Packages
+ b9dced3e453d984a860b097911f4daf1d535e748 441 main/binary-s390x/Packages.gz
+ bb72d6a8869744ebb0430705b4946ccf14a17c09 78 main/binary-s390x/Release
+SHA256:
+ 469f46522d203d95220edf771180cf45912da2261f159bf67505ea2df73e48b4 662 main/binary-amd64/Packages
+ 9f525d722454223c0f94d9246054b16f201f708d59492f8ff6cac790de8c8a60 441 main/binary-amd64/Packages.gz
+ 8bfafc462485639f3e52173af341d2d045aa9ef8f6ffa9e9c3e3d42e5be3cf7a 78 main/binary-amd64/Release
+ 469f46522d203d95220edf771180cf45912da2261f159bf67505ea2df73e48b4 662 main/binary-arm64/Packages
+ 9f525d722454223c0f94d9246054b16f201f708d59492f8ff6cac790de8c8a60 441 main/binary-arm64/Packages.gz
+ a6c0c95530c3fcf70e30de61aad85b5b1377406beb4c5f9f9d31ca935cc8d313 78 main/binary-arm64/Release
+ 469f46522d203d95220edf771180cf45912da2261f159bf67505ea2df73e48b4 662 main/binary-armhf/Packages
+ 9f525d722454223c0f94d9246054b16f201f708d59492f8ff6cac790de8c8a60 441 main/binary-armhf/Packages.gz
+ 13dacd90379caeb2c8e6423bdb1cd8628eb888148179e04c293672dc3d9a0cf6 78 main/binary-armhf/Release
+ 469f46522d203d95220edf771180cf45912da2261f159bf67505ea2df73e48b4 662 main/binary-i386/Packages
+ 9f525d722454223c0f94d9246054b16f201f708d59492f8ff6cac790de8c8a60 441 main/binary-i386/Packages.gz
+ 166e84b012c41f6cd46bdac55c53266e9f29884498eabaa9da67ff6b6ae5ec7c 77 main/binary-i386/Release
+ 469f46522d203d95220edf771180cf45912da2261f159bf67505ea2df73e48b4 662 main/binary-ppc64el/Packages
+ 9f525d722454223c0f94d9246054b16f201f708d59492f8ff6cac790de8c8a60 441 main/binary-ppc64el/Packages.gz
+ 870daf8017e5deed89d743ab101adc3792fe4b5cb7a678e9ce6b8a64d7157f4c 80 main/binary-ppc64el/Release
+ 469f46522d203d95220edf771180cf45912da2261f159bf67505ea2df73e48b4 662 main/binary-s390x/Packages
+ 9f525d722454223c0f94d9246054b16f201f708d59492f8ff6cac790de8c8a60 441 main/binary-s390x/Packages.gz
+ 2814f2819ceb14815ece230ebdc4e94913fe451f59a645fea51713a9e1e080cf 78 main/binary-s390x/Release

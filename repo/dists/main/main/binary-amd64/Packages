@@ -1,0 +1,19 @@
+Package: libdate-holidays-super-perl
+Version: 0.05-1
+Architecture: all
+Maintainer: root <runner@>
+Installed-Size: 40
+Depends: perl
+Homepage: https://metacpan.org/release/Date-Holidays-Super
+Priority: optional
+Section: perl
+Filename: pool/main/libd/libdate-holidays-super-perl/libdate-holidays-super-perl_0.05-1_all.deb
+Size: 13564
+SHA256: dabe256016fc3ac4362884a2282fe5d3afb82f838617f9c1b9fc7df266c05ed9
+SHA1: ca94d814600f064daa76591cfc11dcaef250586a
+MD5sum: 4f5efc6d36a476ec75612634c8f80ce0
+Description: SUPER class for the Date::Holidays::* modules
+ (no description was found)
+ .
+ This description was automagically extracted from the module by dh-make-perl.
+

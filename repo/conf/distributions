@@ -1,0 +1,7 @@
+Description: peternewman/Date-Holidays-GB
+Codename: main
+Architectures: amd64 arm64 armhf i386 ppc64el s390x
+Components: main
+SignWith: 537DC0BB3ACE17E0CB574CA17E4B26D28B8C8B8E
+
+
