@@ -1,19 +1,32 @@
 Package: libdate-holidays-super-perl
-Version: 0.05-1
+Version: 0.06-1
 Architecture: all
 Maintainer: root <runner@>
-Installed-Size: 40
+Installed-Size: 32
 Depends: perl
 Homepage: https://metacpan.org/release/Date-Holidays-Super
 Priority: optional
 Section: perl
-Filename: pool/main/libd/libdate-holidays-super-perl/libdate-holidays-super-perl_0.05-1_all.deb
-Size: 13564
-SHA256: dabe256016fc3ac4362884a2282fe5d3afb82f838617f9c1b9fc7df266c05ed9
-SHA1: ca94d814600f064daa76591cfc11dcaef250586a
-MD5sum: 4f5efc6d36a476ec75612634c8f80ce0
+Filename: pool/main/libd/libdate-holidays-super-perl/libdate-holidays-super-perl_0.06-1_all.deb
+Size: 11166
+SHA256: 6411230010878fe5f37ab63b542c88c32db957d76a280e8ccafef30663e52e6f
+SHA1: eb1e3b2085bb5c44958b92875959620bda3568d9
+MD5sum: 01f28967af7552ec0fa5ac841143ff5a
 Description: SUPER class for the Date::Holidays::* modules
- (no description was found)
+ This is a SUPER class intended for use by Date::Holidays::* modules.
+ .
+ The goal is to have all the existing and future modules implement the same
+ methods, so they will have a uniform usage and can be used in polymorphic
+ context or can be easily adapted into the Date::Holidays class.
+ .
+ The class provides two methods: is_holiday and holidays an alternative to
+ this class is Date::Holidays::Abstract, which does not implement these
+ methods, but require that they are implemented.
+ .
+ If you want to use Date::Holidays::Super and want to comply with my
+ suggestions to the methods that ought to be implemented, you should overload
+ the methods provided by this class, when and if you have the time in your
+ Date::Holidays::* module.
  .
  This description was automagically extracted from the module by dh-make-perl.
 
