@@ -1,5 +1,5 @@
 Package: libdate-holidays-gb-perl
-Version: 0.020-1
+Version: 0.021-1
 Architecture: all
 Maintainer: root <runner@>
 Installed-Size: 63
@@ -7,25 +7,13 @@ Depends: perl, libdate-holidays-super-perl, libdatetime-perl
 Homepage: https://metacpan.org/release/Date-Holidays-GB
 Priority: optional
 Section: perl
-Filename: pool/main/libd/libdate-holidays-gb-perl/libdate-holidays-gb-perl_0.020-1_all.deb
-Size: 20076
-SHA256: 234bab39a257946f55b9558df2536623ebc194effabd6a14318bdc694345ae9c
-SHA1: 958c8094fc246453ff7d78255d75a3dcffd486b7
-MD5sum: f1dc2e87d41d9e6cfb696b6f3cdb3916
+Filename: pool/main/libd/libdate-holidays-gb-perl/libdate-holidays-gb-perl_0.021-1_all.deb
+Size: 20100
+SHA256: 5980c3c4b05baa86d1a371adc6e1cac8a296c1cf21ab948690724578a8f8f45c
+SHA1: 5b88f789910eb3950a15f6ed90c2a72498edb35d
+MD5sum: 8bc3407017f246ad56b6cbd1751a2dbf
 Description: Determine British holidays - Current UK public and bank holiday dates up to 2023
- A Date::Holidays style package updated with the British bank holiday dates
- now published at https://www.gov.uk/bank-holidays. Holidays may apply to all
- regions, or some combination - see the regions parameter for more details.
- .
- N.B. - Dates of future holidays may occasionally be updated after they've
- been published.
- .
- Module is named with correct ISO-3166-1 code for the United Kingdom: "GB"
- (Great Britain)
- .
- To just work with holiday days for a single region, use one of the
- subclasses: Date::Holidays::GB::EAW, Date::Holidays::GB::NIR, or
- Date::Holidays::GB::SCT.
+ (no description was found)
  .
  This description was automagically extracted from the module by dh-make-perl.
 
