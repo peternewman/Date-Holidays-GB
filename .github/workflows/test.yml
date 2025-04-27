@@ -117,7 +117,7 @@ jobs:
           ls *.deb
           dpkg --info libdate-holidays-super-perl*.deb
           dpkg --info libdate-holidays-gb-perl*.deb
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v4
         with:
           name: debs
           path: "debs/*.deb"
