@@ -164,7 +164,8 @@ Michael Jemmeson <mjemmeson@cpan.org>
 
 # CONTRIBUTORS
 
-- Peter Newman
+- Peter Newman (PJNEWMAN)
+- Geraint Edwards (GEDGE)
 
 # COPYRIGHT
 
