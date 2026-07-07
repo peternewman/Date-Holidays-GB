@@ -197,7 +197,9 @@ Michael Jemmeson <mjemmeson@cpan.org>
 
 =over
 
-=item Peter Newman
+=item Peter Newman (PJNEWMAN)
+
+=item Geraint Edwards (GEDGE)
 
 =back
 
