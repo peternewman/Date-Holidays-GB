@@ -1,5 +1,5 @@
 Package: libdate-holidays-gb-perl
-Version: 0.024-1
+Version: 0.025-1
 Architecture: all
 Maintainer: root <runner@>
 Installed-Size: 63
@@ -7,12 +7,12 @@ Depends: perl, libdate-holidays-super-perl, libdatetime-perl
 Homepage: https://metacpan.org/release/Date-Holidays-GB
 Priority: optional
 Section: perl
-Filename: pool/main/libd/libdate-holidays-gb-perl/libdate-holidays-gb-perl_0.024-1_all.deb
-Size: 16040
-SHA256: 28755abfd8b47fc596bdf4ba2991d774dd5e9a6039f3960786e62d354b05b1ad
-SHA1: acce4b0aed0877c3260ce4baeeacc62331921b10
-MD5sum: 8eab9f490ebb78a546329cf8307bda97
-Description: Determine British holidays - Current UK public and bank holiday dates up to 2026
+Filename: pool/main/libd/libdate-holidays-gb-perl/libdate-holidays-gb-perl_0.025-1_all.deb
+Size: 16844
+SHA256: 8a43d4e9177b830d557848276319ba7407c6f8685cf1bb07bd18d643aa731aa9
+SHA1: 3caecd5dcb4587ca710066f304ba2b6af6df4088
+MD5sum: abecc2a07c9f83bcd631f35682937d3a
+Description: Determine British holidays - Current UK public and bank holiday dates up to 2028
  (no description was found)
  .
  This description was automagically extracted from the module by dh-make-perl.
