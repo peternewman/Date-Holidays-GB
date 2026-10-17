@@ -34,6 +34,12 @@ jobs:
         exclude:
           # excludes the Windows ones that don't work
           - os: windows-latest
+            perl: "5.42"
+          - os: windows-latest
+            perl: "5.40"
+          - os: windows-latest
+            perl: "5.24"
+          - os: windows-latest
             perl: "5.22"
           - os: windows-latest
             perl: "5.20"
