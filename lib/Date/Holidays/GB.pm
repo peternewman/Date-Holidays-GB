@@ -1,8 +1,8 @@
 package Date::Holidays::GB;
 
-our $VERSION = '0.024';
+our $VERSION = '0.025';
 
-# ABSTRACT: Determine British holidays - Current UK public and bank holiday dates up to 2026
+# ABSTRACT: Determine British holidays - Current UK public and bank holiday dates up to 2028
 
 use strict;
 use warnings;
@@ -196,7 +196,7 @@ sub _holiday {
     return join( ', ', @strings );
 }
 
-sub date_generated { '2026-01-27' }
+sub date_generated { '2026-01-04' }
 
 1;
 
